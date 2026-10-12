@@ -13,3 +13,6 @@
 [submodule "llc_data"]
 	path = llc_data
 	url = https://github.com/asm128/llc_data
+[submodule "llc_games_data"]
+	path = llc_games_data
+	url = https://github.com/asm128/llc_games_data
