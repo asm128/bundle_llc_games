@@ -1,0 +1,12 @@
+[submodule "llc"]
+	path = llc
+	url = https://github.com/asm128/llc
+[submodule "llc_games"]
+	path = llc_games
+	url = https://github.com/asm128/llc_games
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/asm128/zlib
+[submodule "llc_engine"]
+	path = llc_engine
+	url = https://github.com/asm128/llc_engine
