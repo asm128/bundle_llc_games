@@ -10,3 +10,6 @@
 [submodule "llc_engine"]
 	path = llc_engine
 	url = https://github.com/asm128/llc_engine
+[submodule "llc_data"]
+	path = llc_data
+	url = https://github.com/asm128/llc_data
